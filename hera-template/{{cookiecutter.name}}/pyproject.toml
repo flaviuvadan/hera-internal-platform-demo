@@ -2,7 +2,7 @@
 name = "{{cookiecutter.name}}"
 version = "0.0.0"
 description = ""
-authors = ["Flaviu Vadan <flaviuvadan@gmail.com>"]
+authors = ["First Last <firstlast@myorg.com>"]
 readme = "README.md"
 packages = [
     { include = '{{cookiecutter.name}}', from = 'src' }
