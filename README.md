@@ -1,8 +1,7 @@
 # The Hera demo repository
 
-This repository
-contains a simple example of an organization's potential internal package that facilitates the creation and submission
-of workflows.
+This repository contains a simple example of an organization's potential internal package that facilitates the 
+creation and submission of workflows.
 
 The main template is stored in `hera-template`. [Cookiecutter](https://cookiecutter.readthedocs.io/en/stable/) is used
 as the main tool to create a demo repository from a template. The `hera-template` contains a `cookiecutter.json` file
